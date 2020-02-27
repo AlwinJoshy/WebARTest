@@ -7,7 +7,7 @@ function staticLoadPlaces() {
     return [
         {
             name: 'OutrealXR',
-            url: './assets/OutrealXR/Sophia.glb',
+            url: './assets/OutrealXR/SophiaIdle.glb',
             location: {
                 lat: 25.121405,
                 lng: 55.377177,
